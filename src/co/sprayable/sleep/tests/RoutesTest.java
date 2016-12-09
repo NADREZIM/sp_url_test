@@ -17,8 +17,8 @@ public class RoutesTest extends BaseTest {
         AllAddressCheck allAddressCheck = new AllAddressCheck();
         Reporter.log("high Priority sites: ");
         allAddressCheck.testingAllRoutesAvailability(Constants.highPriority);
-        // Reporter.log("low Priority sites: ");
-        // allAddressCheck.testingAllRoutesAvailability(Constants.lowPriority);
+         Reporter.log("low Priority sites: ");
+         allAddressCheck.testingAllRoutesAvailability(Constants.lowPriority);
     }
 
 }
