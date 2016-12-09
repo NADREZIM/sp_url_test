@@ -45,7 +45,9 @@ public class AllAddressCheck {
         }
         assert connection != null;
         connection.disconnect();
-        EmailSender emailSender = new EmailSender();
-        emailSender.sendMail(brokenSitesAmount);
+        if (brokenSitesAmount.size() > 0) {
+            EmailSender emailSender = new EmailSender();
+            emailSender.sendMail(brokenSitesAmount);
+        }
     }
 }
