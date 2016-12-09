@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<data>
+	<browser type="chrome">
+		<credentials name="testCredentials">
+			<arg>test@test.ts</arg>
+			<arg>258852</arg>
+		</credentials>
+	</browser>
+	<browser type="firefox">
+		<credentials name="testCredentials">
+            <arg>test@test.ts</arg>
+            <arg>258852</arg>
+		</credentials>
+	</browser>
+    <browser type="ie">
+        <credentials name="testCredentials">
+            <arg>test@test.ts</arg>
+            <arg>258852</arg>
+        </credentials>
+    </browser>
+</data>

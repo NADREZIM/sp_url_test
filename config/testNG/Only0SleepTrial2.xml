@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sleep sprayable" verbose="4">
+
+    <test name="Only0SleepTrial2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Only0SleepTrial2"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sleep sprayable" verbose="4">
+
+    <test name="Funnel1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel1"/>
+        </classes>
+    </test>
+
+    <test name="Funnel2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel2"/>
+        </classes>
+    </test>
+
+    <test name="Funnel3">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel3"/>
+        </classes>
+    </test>
+
+    <test name="Funnel4">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel4"/>
+        </classes>
+    </test>
+
+    <test name="Funnel5">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel5"/>
+        </classes>
+    </test>
+
+    <test name="Funnel6">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel6"/>
+        </classes>
+    </test>
+
+    <test name="Funnel7">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel7"/>
+        </classes>
+    </test>
+
+    <test name="Funnel8">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Funnel8"/>
+        </classes>
+    </test>
+
+    <test name="InsomniaFunnel">
+        <classes>
+            <class name="co.sprayable.sleep.tests.InsomniaFunnel"/>
+        </classes>
+    </test>
+
+    <test name="MiniVideoFunnel1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MiniVideoFunnel1"/>
+        </classes>
+    </test>
+
+    <test name="MiniVideoFunnel2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MiniVideoFunnel2"/>
+        </classes>
+    </test>
+
+    <test name="MiniVideoFunnel3">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MiniVideoFunnel3"/>
+        </classes>
+    </test>
+
+    <test name="MiniVideoFunnel4">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MiniVideoFunnel4"/>
+        </classes>
+    </test>
+
+    <test name="MainPageFunnel1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MainPageFunnel1"/>
+        </classes>
+    </test>
+
+    <test name="MainPageFunnel2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.MainPageFunnel2"/>
+        </classes>
+    </test>
+
+    <test name="SleepvaultVersion2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SleepvaultVersion2"/>
+        </classes>
+    </test>
+
+    <test name="SimpleOrderV1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SimpleOrderV1"/>
+        </classes>
+    </test>
+
+    <test name="SimpleOrderV2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SimpleOrderV2"/>
+        </classes>
+    </test>
+
+    <test name="Vip25DiscountV1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Vip25DiscountV1"/>
+        </classes>
+    </test>
+
+    <test name="Vip25DiscountV2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Vip25DiscountV2"/>
+        </classes>
+    </test>
+
+    <test name="Vip25DiscountTrial">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Vip25DiscountTrial"/>
+        </classes>
+    </test>
+
+    <test name="Only0SleepTrial1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Only0SleepTrial1"/>
+        </classes>
+    </test>
+
+    <test name="Only0SleepTrial2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Only0SleepTrial2"/>
+        </classes>
+    </test>
+
+    <test name="Only1SleepTrial">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Only1SleepTrial"/>
+        </classes>
+    </test>
+
+    <test name="EnergyTrial">
+        <classes>
+            <class name="co.sprayable.sleep.tests.EnergyTrial"/>
+        </classes>
+    </test>
+
+    <test name="SleepEnergy">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SleepEnergy"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle1V1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle1V1"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle1V2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle1V2"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle2V1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle2V1"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle2V2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle2V2"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle3">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle3"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle8V1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle8V1"/>
+        </classes>
+    </test>
+
+    <test name="OldStyle8V2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.OldStyle8V2"/>
+        </classes>
+    </test>
+
+    <test name="DeepDiscountedSleepOne">
+        <classes>
+            <class name="co.sprayable.sleep.tests.DeepDiscountedSleepOne"/>
+        </classes>
+    </test>
+
+    <test name="DeepDiscountedSleepTwo">
+        <classes>
+            <class name="co.sprayable.sleep.tests.DeepDiscountedSleepTwo"/>
+        </classes>
+    </test>
+
+    <test name="DelayedShippingSleep">
+        <classes>
+            <class name="co.sprayable.sleep.tests.DelayedShippingSleep"/>
+        </classes>
+    </test>
+
+    <test name="NewHomepageV1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.NewHomepageV1"/>
+        </classes>
+    </test>
+
+    <!--<test name="NewHomepageV2">-->
+        <!--<classes>-->
+            <!--<class name="co.sprayable.sleep.tests.NewHomepageV2"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <test name="SleepHacker">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SleepHacker"/>
+        </classes>
+    </test>
+
+    <test name="Sprayablesleep1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.Sprayablesleep1"/>
+        </classes>
+    </test>
+
+    <test name="SprayableV1">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SprayableV1"/>
+        </classes>
+    </test>
+
+    <test name="SprayableV2">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SprayableV2"/>
+        </classes>
+    </test>
+
+    <test name="SprayableV3">
+        <classes>
+            <class name="co.sprayable.sleep.tests.SprayableV3"/>
+        </classes>
+    </test>
+
+</suite>
