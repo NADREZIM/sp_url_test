@@ -151,7 +151,7 @@ public class Constants {
             "http://sleep.sprayable.co/thequizresult", "http://sleep.sprayable.co/getsleep", "http://sprayablesleep.com/can-the-ultimate-30-second-sleep-quiz-help-cure-your-insomnia/",
             "https://sleep.sprayable.co/theultimatesleepquiz4u", "https://sleep.sprayable.co/thequizresult4u", "http://fallasleep.sprayable.co/quiz", "http://fallasleep.sprayable.co/typei", "http://fallasleep.sprayable.co/types",
             "http://fallasleep.sprayable.co/typel", "http://fallasleep.sprayable.co/typea", "http://fallasleep.sprayable.co/typeu", "http://fallasleep.sprayable.co/find-out-more",
-            "http://deals.sprayable.co/special-offer-for-sprayable-energy", "sprayable.co", "sprayablesleep.com", "https://sleep.sprayable.co/12-powerful-foods-to-fall-asleep", "https://sleep.sprayable.co/sleephacker",
+            "http://deals.sprayable.co/special-offer-for-sprayable-energy", "http://sprayable.co", "http://sprayablesleep.com", "https://sleep.sprayable.co/12-powerful-foods-to-fall-asleep", "https://sleep.sprayable.co/sleephacker",
             "http://www.sleepvault.com", "https://sleep.sprayable.co/new-video-presentation", "https://sleep.sprayable.co/new-sleeptips1", "https://sleep.sprayable.co/new-sleeptips2", "https://sleep.sprayable.co/new-sleeptips3", "http://sleep.sprayable.co/products/sleep",
             "http://sleep.sprayable.co/products/energy", "http://sleep.sprayable.co/home-new#", "http://sleep.sprayable.co/sprayablelife", "http://fallasleep.sprayable.co/pharmaceutical-companies-hate-the-miracle-spray",
             "https://catch22.leadpages.co/sprayable-energy-fountain-of-youth/", "http://expandingspec.com/energy-vip","http://fallasleep.sprayable.co/miracle-spray-fall-asleep-by-pushing-a-button"};
